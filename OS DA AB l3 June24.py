@@ -23,6 +23,7 @@
 import pandas as pd
 import numpy as np
 #test
+#test 2
 
 
 # ### Контрольна група
