@@ -25,6 +25,8 @@ import numpy as np
 #test
 #test 2
 
+!jupyter nbconvert --to script "DA35 AB l4 06May2026.ipynb"
+
 
 # ### Контрольна група
 # 
