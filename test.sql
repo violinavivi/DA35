@@ -1,3 +1,5 @@
+vdkadhnlvfjchaldvfhnaldsvhnladhkval
+
 -- ALL Використовується для порівняння значення з усіма значеннями, що повертає підзапит.
 
 select 
